@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(227, 193, 255)
+}
+
+h2 {
+    color: rgb(227, 193, 255);
+}
+
+.link-header {
+    color: rgb(227, 193, 255)
+}
+
+.link-nav {
+    color: rgb(227, 193, 255);
+}
+
+.link-text {
+    background-color: rgb(227, 193, 255);
+    color: white;
+    text-decoration: none;
+}
